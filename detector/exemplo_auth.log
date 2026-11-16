@@ -1,0 +1,30 @@
+Nov 14 02:13:05 srv-web01 sshd[4101]: Accepted publickey for deploy from 192.168.0.15 port 51022 ssh2: ED25519 SHA256:k3yF1ng3rpr1nt
+Nov 14 02:13:07 srv-web01 sshd[4102]: Failed password for root from 203.0.113.45 port 40101 ssh2
+Nov 14 02:13:09 srv-web01 sshd[4103]: Failed password for root from 203.0.113.45 port 40102 ssh2
+Nov 14 02:13:11 srv-web01 sshd[4104]: Failed password for invalid user admin from 203.0.113.45 port 40103 ssh2
+Nov 14 02:13:13 srv-web01 sshd[4105]: Failed password for root from 203.0.113.45 port 40104 ssh2
+Nov 14 02:13:15 srv-web01 sshd[4106]: Failed password for invalid user admin from 203.0.113.45 port 40105 ssh2
+Nov 14 02:13:17 srv-web01 sshd[4107]: Failed password for root from 203.0.113.45 port 40106 ssh2
+Nov 14 02:13:19 srv-web01 sshd[4108]: Failed password for invalid user ubuntu from 203.0.113.45 port 40107 ssh2
+Nov 14 02:13:21 srv-web01 sshd[4109]: Failed password for root from 203.0.113.45 port 40108 ssh2
+Nov 14 02:13:23 srv-web01 sshd[4110]: Failed password for invalid user admin from 203.0.113.45 port 40109 ssh2
+Nov 14 02:13:25 srv-web01 sshd[4111]: Failed password for root from 203.0.113.45 port 40110 ssh2
+Nov 14 02:13:27 srv-web01 sshd[4112]: Failed password for invalid user test from 203.0.113.45 port 40111 ssh2
+Nov 14 02:13:29 srv-web01 sshd[4113]: Failed password for root from 203.0.113.45 port 40112 ssh2
+Nov 14 02:14:09 srv-web01 sshd[4114]: Failed password for joao from 192.168.0.22 port 52110 ssh2
+Nov 14 02:14:15 srv-web01 sshd[4115]: Failed password for joao from 192.168.0.22 port 52110 ssh2
+Nov 14 02:14:20 srv-web01 sshd[4116]: Accepted password for joao from 192.168.0.22 port 52110 ssh2
+Nov 14 02:14:23 srv-web01 sshd[4117]: Failed password for financeiro from 198.51.100.23 port 38000 ssh2
+Nov 14 02:14:26 srv-web01 sshd[4118]: Failed password for financeiro from 198.51.100.23 port 38001 ssh2
+Nov 14 02:14:29 srv-web01 sshd[4119]: Failed password for financeiro from 198.51.100.23 port 38002 ssh2
+Nov 14 02:14:32 srv-web01 sshd[4120]: Failed password for financeiro from 198.51.100.23 port 38003 ssh2
+Nov 14 02:14:35 srv-web01 sshd[4121]: Failed password for financeiro from 198.51.100.23 port 38004 ssh2
+Nov 14 02:14:38 srv-web01 sshd[4122]: Failed password for financeiro from 198.51.100.23 port 38005 ssh2
+Nov 14 02:14:41 srv-web01 sshd[4123]: Failed password for financeiro from 198.51.100.23 port 38006 ssh2
+Nov 14 02:14:45 srv-web01 sshd[4124]: Accepted password for financeiro from 198.51.100.23 port 38007 ssh2
+Nov 14 02:14:46 srv-web01 sshd[4125]: Failed password for invalid user oracle from 192.0.2.77 port 50124 ssh2
+Nov 14 02:14:47 srv-web01 sshd[4126]: Failed password for invalid user postgres from 192.0.2.77 port 50125 ssh2
+Nov 14 02:14:48 srv-web01 sshd[4127]: Failed password for invalid user git from 192.0.2.77 port 50126 ssh2
+Nov 14 02:14:49 srv-web01 sshd[4128]: Failed password for invalid user pi from 192.0.2.77 port 50127 ssh2
+Nov 14 02:14:50 srv-web01 sshd[4129]: Failed password for invalid user guest from 192.0.2.77 port 50128 ssh2
+Nov 14 02:15:00 srv-web01 sshd[4130]: Received disconnect from 192.0.2.77 port 50999:11: Bye Bye [preauth]
